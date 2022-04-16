@@ -1,2 +1,2 @@
 # OJProblems
-a record for me solving online judge problems,
+This branch is for problems in leetcode
